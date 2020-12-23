@@ -1,8 +1,8 @@
 import './App.css';
+
 import { BrowserRouter as Router, HashRouter, Switch, Route } from "react-router-dom"
 
 import Parent from "./components/parent"
-
 
 function App() {
   return (
